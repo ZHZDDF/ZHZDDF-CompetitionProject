@@ -4,6 +4,10 @@
 
 https://github.com/ZHZDDF/ZHZDDF-CompetitionProject/releases/download/1.0.0/ZHZDDF-DHBDTool.exe
 
+## 环境需求
+
+运行落子python脚本时需要提供对应的python环境
+
 ## 程序概述
 
 此程序是zhzddf制作的参加大学生计算机博弈大赛的比赛工具。
