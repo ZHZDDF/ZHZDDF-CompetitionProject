@@ -1,1 +1,1 @@
-anst_move文件夹下move.py为可执行的测试简单脚本，另需选择你电脑上的一个python环境即可使用
+ReferenceScriptForEinsteinChess.py为可执行的测试简单脚本，另需选择你电脑有python环境搭配使用
